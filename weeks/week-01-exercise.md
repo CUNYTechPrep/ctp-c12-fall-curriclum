@@ -15,7 +15,7 @@ breaking — and it's your **jigsaw study copy** for this week's homework, so
 keep it.
 
 ```bash
-git clone github.com/CUNYTechPrep/starter starter && cd starter
+git clone github.com/CUNYTechPrep/ctp-starter starter && cd starter
 git switch example/todo
 ```
 
