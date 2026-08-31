@@ -16,7 +16,7 @@ keep it.
 
 ```bash
 git clone https://github.com/CUNYTechPrep/ctp-starter.git starter && cd starter
-git switch example/todo
+git switch example/todos
 ```
 
 ## 1 · Get it running (the health check)
