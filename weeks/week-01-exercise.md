@@ -30,7 +30,7 @@ pnpm dev                 # web + YOUR OWN Postgres server + Azurite
 Then, in a **second terminal**:
 
 ```bash
-pnpm db:seed             # creates users @ada and @grace with starter todos
+pnpm db:migrate             # creates users @ada and @grace with starter todos
 ```
 
 Stuck anywhere in this step? That's not falling behind — week 1's study
