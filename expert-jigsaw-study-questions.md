@@ -1,8 +1,8 @@
 # The Expert Jigsaw — Study Questions
 
-One aspect per team member; between you, cover all four quadrants (see the
-syllabus). All questions are asked of the **course starter's `example/todo` branch**
-(your week-1 work-block clone) — the skeleton with one small app (username sign-in, todos, image attachments, a
+One aspect per pod member; between you, cover all eight (see
+[expert-jigsaw.md](expert-jigsaw.md)). All questions are asked of the
+**course starter's `example/todo` branch** (your week-1 study-hall clone) — the skeleton with one small app (username sign-in, todos, image attachments, a
 thumbnail worker, live notifications) flowing through every layer. For your
 aspect, work through its questions **in order** — they escalate from *run
 it* to *trace it* to *why* to *break it*. Rules of the game:

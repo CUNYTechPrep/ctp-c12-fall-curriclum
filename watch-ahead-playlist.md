@@ -6,11 +6,11 @@ budget ≤ ~45 minutes of watching. Class starts primed, not cold — the opener
 assumes you've seen these. Rule of thumb carried from everything else in this
 course: what the video claims, verify by running.
 
-**One-click playlist.** Open this link and YouTube assembles the 25 verified
+**One-click playlist.** Open this link and YouTube assembles the 27 verified
 videos into a playlist in week order — then hit ⋮ → *Save playlist* to put it
 on the course account and rename it **C12 Watch-Ahead**:
 
-<https://www.youtube.com/watch_videos?video_ids=26ls5lNiijk,pomxJOFVcQs,mMsZPZKNc4g,Yh4CrPHVBdE,SLwpqD8n3d0,iYM2zFP3Zn0,K74l26pE4YA,8aGhZQkoFbQ,RvYYCGs45L4,vn3tm0quoqE,VyWRmepESoQ,OUDV1gqs9GA,fyTxwIa-1U0,ZV5yTm4pT8g,DXTHb9TqJOs,oUJbuFMyBDk,Gjnup-PuquQ,PziYflu8cB8,scEDHsr3APg,u6QfIXgjwGQ,a3SMraZWNNs,-qNSXK7s7_w,VMpTU15rIZY,Unzc731iCUY,17XZGUX_9iM>
+<https://www.youtube.com/watch_videos?video_ids=26ls5lNiijk,pomxJOFVcQs,mMsZPZKNc4g,Yh4CrPHVBdE,SLwpqD8n3d0,iYM2zFP3Zn0,HTUh0OO6Kmo,DkhhE97Swmo,K74l26pE4YA,8aGhZQkoFbQ,RvYYCGs45L4,vn3tm0quoqE,VyWRmepESoQ,OUDV1gqs9GA,fyTxwIa-1U0,ZV5yTm4pT8g,DXTHb9TqJOs,oUJbuFMyBDk,Gjnup-PuquQ,PziYflu8cB8,scEDHsr3APg,u6QfIXgjwGQ,a3SMraZWNNs,-qNSXK7s7_w,VMpTU15rIZY,Unzc731iCUY,17XZGUX_9iM>
 
 
 ---
@@ -48,8 +48,16 @@ on the course account and rename it **C12 Watch-Ahead**:
 - 📖 MDN — *An overview of HTTP*:
   <https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview>
 - 📖 *How HTTPS Works* (the comic): <https://howhttps.works/>
+- 🎬 JetBrains Academy — *What AI does to the minds of novice coders*:
+  <https://www.youtube.com/watch?v=HTUh0OO6Kmo>
+- 🎬 JetBrains Academy — *The Psychology of Learning to Code*:
+  <https://www.youtube.com/watch?v=DkhhE97Swmo>
 - Why these: wk 4 includes the full request-anatomy trace — DNS to render.
   Arrive knowing what a header is; leave knowing what your app does with it.
+  The two JetBrains talks are the other thread: three weeks in, with AI in
+  your editor daily, they name what accelerates learning and what quietly
+  replaces it — the mindset the course opened with, now that you have
+  enough reps to recognize it in yourself.
 
 ## Before the Wk 5 session · Components & state — assigned with wk-4 homework
 
